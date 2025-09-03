@@ -35,7 +35,7 @@ require("lazy").setup({
     lazy = true, -- Lazy load by default
     version = false, -- Always use latest git commits
   },
-  -- install = { colorscheme = { "kanagawa" } }, -- default colorscheme
+  install = { colorscheme = { "kanagawa" } }, -- default colorscheme
   checker = { 
     enabled = true, 
     notify = false 

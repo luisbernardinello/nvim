@@ -7,7 +7,7 @@ return {
     config = function()
       require("lualine").setup({
         options = {
-          theme = "catppuccin",
+          theme = "kanagawa",
           component_separators = "|",
           section_separators = { left = "", right = "" },
           disabled_filetypes = {
